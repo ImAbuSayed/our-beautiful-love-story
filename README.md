@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> We left the headlights shining on the drive
+> Your gentle touch is making me alive
+> I feel the gravity start letting go
+> Let's take it easy, steady, nice and slow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
