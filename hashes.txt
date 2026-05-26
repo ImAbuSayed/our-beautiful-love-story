@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Our Beautiful Love Story
+
+This log tracks the cryptographic history and versioning for the song **Our Beautiful Love Story** (our-beautiful-love-story).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T16:04:57.654974 | `v1` | `6f6ddeb289308b618a79105f10157f857048c1230f2d8e0f382ae01bcad79e43` | `f4994df6542a9677a788603b0e67502f177839776fff7ad9cc5b3381879c972b` | `2026-05-26_our-beautiful-love-story-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

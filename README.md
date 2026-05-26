@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/our-beautiful-love-story/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Our Beautiful Love Story](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/our-beautiful-love-story/) |
+| **Get License** | [Secure Licensing Rights for Our Beautiful Love Story](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/our-beautiful-love-story/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6f6ddeb289308b618a79105f10157f857048c1230f2d8e0f382ae01bcad79e43` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
